@@ -1,5 +1,2 @@
-git is fucking version control system
-git is free sofeware
-
-git is too young
-too
+git a simple software
+git a best
